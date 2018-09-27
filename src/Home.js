@@ -9,11 +9,11 @@ class Home extends React.Component {
 
     render() {
         return (
-            <div>
-                <Input type='text'></Input>
-                <Button>Postar</Button>
-                <Card>
-                    <ListaPost>
+            <div >
+                <Input type='text' > </Input>
+                <Button > Postar </Button>
+                <Card >
+                    <ListaPost >
 
                     </ListaPost>
                 </Card>
